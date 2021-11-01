@@ -1,0 +1,20 @@
+role,gameCatRes,definition
+Attacker,1, bomb successfully exploded  attacker successfully escapes.
+Attacker,2, bomb successfully exploded  attacker is caught by the police.
+Attacker,3, bomb is caught  but the player successfully escapes.
+Attacker,4, bomb is caught  attacker is caught later on.
+Attacker,5, bomb successfully exploded  but kill the attacker.
+Attacker,6, attacker is caught before dropping the bomb. 
+Patroller,1, bomb successfully exploded  attacker successfully escapes.
+Patroller,2, bomb successfully exploded  attacker caught by human player.
+Patroller,3, bomb successfully exploded  attacker caught by AI patroller.
+Patroller,4, bomb dropped  but found by human player
+Patroller,5, bomb dropped  but found by AI patroller
+Patroller,6, bomb dropped  but found by human player. Attacker found by human player. 
+Patroller,7, bomb dropped  but found by human player. Attacker found by AI patroller.
+Patroller,8, bomb dropped  but found by AI Patroller. Attacker found by human player.
+Patroller,9, bomb dropped  but found by AI Patroller. Attacker found by AI patroller.
+Patroller,10, bomb successfully exploded  but kill human player.
+Patroller,11, bomb successfully exploded  but kill AI attacker.
+Patroller,12, human player catch AI attacker before dropping the bomb. 
+Patroller,13, AI patroller catch AI attacker before dropping the bomb. 
